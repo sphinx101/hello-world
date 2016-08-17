@@ -1,2 +1,2 @@
 # hello-world
-repositorio de test
+Este es un repositorio de prueba, utilizando el tutorial
